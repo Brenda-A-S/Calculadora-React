@@ -1,3 +1,5 @@
+![localhost_3000_](https://github.com/Brenda-A-S/calculadora-React/assets/69852246/d0df75ad-9f08-451a-974c-73037f4c86e2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
